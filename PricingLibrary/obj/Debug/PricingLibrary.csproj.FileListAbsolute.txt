@@ -1,0 +1,6 @@
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\bin\Debug\PricingLibrary.dll
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\bin\Debug\PricingLibrary.pdb
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\obj\Debug\PricingLibrary.dll
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\obj\Debug\PricingLibrary.pdb
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\bin\Debug\MathNet.Numerics.dll
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\PricingLibrary\bin\Debug\MathNet.Numerics.xml

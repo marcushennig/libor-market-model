@@ -1,0 +1,10 @@
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\Test.exe.config
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\Test.exe
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\Test.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\MathNet.Numerics.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\PricingLibrary.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\PricingLibrary.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Release\MathNet.Numerics.xml
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Release\Test.exe
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Release\Test.pdb

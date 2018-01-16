@@ -1,0 +1,7 @@
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\bin\Release\PricingLibrary.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\bin\Release\PricingLibrary.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\bin\Release\MathNet.Numerics.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\bin\Release\MathNet.Numerics.xml
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\obj\Release\PricingLibrary.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\obj\Release\PricingLibrary.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\PricingLibrary\obj\Release\PricingLibrary.csprojResolveAssemblyReference.cache

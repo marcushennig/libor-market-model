@@ -1,0 +1,20 @@
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\Test.exe.config
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\Test.exe
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\Test.pdb
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\PricingLibrary.dll
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\PricingLibrary.pdb
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\obj\Debug\Test.exe
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\obj\Debug\Test.pdb
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\MathNet.Numerics.dll
+C:\Users\d90789\Documents\Visual Studio 2012\Projects\PricingEngine\Test\bin\Debug\MathNet.Numerics.xml
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\Test.exe.config
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Debug\Test.exe
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Debug\Test.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\Test.exe
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\Test.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\MathNet.Numerics.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\PricingLibrary.dll
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\PricingLibrary.pdb
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\bin\Debug\MathNet.Numerics.xml
+C:\Users\d90789\Documents\Oxford MSc in Mathematical Finance\Modules\C# Projects\PricingEngine\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
